@@ -1,9 +1,10 @@
 import './App.css'
+import Home from './pages/Home'
 
 function App() {
   return (
     <div>
-      <h1>Weather Dashboard</h1>
+      <Home/>
     </div>
   )
 }
