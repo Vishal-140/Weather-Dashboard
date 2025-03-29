@@ -45,4 +45,3 @@ const WeatherCard = ({ weather }) => {
 };
 
 export default WeatherCard;
-  
