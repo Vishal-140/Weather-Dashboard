@@ -19,14 +19,14 @@ A modern, responsive weather dashboard application built with React and Tailwind
 ## Preview  
 
 ### Dashboard Overview  
-![Dashboard Overview](./assets/screenshots/img1.png)  
+![Dashboard Overview](https://github.com/Vishal-140/Weather-Dashboard/blob/main/src/assets/screenshots/img1.png?raw=true)  
 
 ### Weather Details  
-![Weather Details](./assets/screenshots/img2.png)  
-![Weather Details](./assets/screenshots/img3.png)  
+![Weather Details](https://github.com/Vishal-140/Weather-Dashboard/blob/main/src/assets/screenshots/img2.png?raw=true)  
+![Weather Details](https://github.com/Vishal-140/Weather-Dashboard/blob/main/src/assets/screenshots/img3.png?raw=true)  
 
 ### Error Handling  
-![Error State](./assets/screenshots/img4.png)  
+![Error State](https://github.com/Vishal-140/Weather-Dashboard/blob/main/src/assets/screenshots/img4.png?raw=true)  
 
 ### Responsive Design  
-![Mobile View](./assets/screenshots/img5.png)  
+![Mobile View](https://github.com/Vishal-140/Weather-Dashboard/blob/main/src/assets/screenshots/img5.png?raw=true)  
